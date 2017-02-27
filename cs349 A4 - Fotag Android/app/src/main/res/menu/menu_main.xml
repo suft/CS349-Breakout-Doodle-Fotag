@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/load_default"
+        android:icon="@drawable/open"
+        android:title="load"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/reset_filter"
+        android:icon="@drawable/reset"
+        android:title="reset"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/clear_images"
+        android:icon="@drawable/reset"
+        android:title="clear"
+        app:showAsAction="always"/>
+</menu>
